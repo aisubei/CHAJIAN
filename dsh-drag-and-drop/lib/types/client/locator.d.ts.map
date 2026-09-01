@@ -1,1 +1,0 @@
-{"version":3,"file":"locator.d.ts","sourceRoot":"","sources":["../../../src/client/locator.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,wCAAwC,CAAA;AACzE,OAAO,EAAuC,KAAK,cAAc,EAAE,MAAM,gBAAgB,CAAA;AAazF,wBAAsB,iBAAiB,CACrC,IAAI,EAAE,IAAI,EACV,UAAU,EAAE,WAAW,EACvB,oBAAoB,EAAE,MAAM,GAAG,SAAS,GACvC,OAAO,CAAC,cAAc,CAAC,CAwBzB"}
