@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-handoff-lite16
+      name: 'dsh-handoff-lite16'
+      inject:
+        - tools
+        - commands
