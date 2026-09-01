@@ -1,0 +1,8 @@
+{
+  "edgePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "profileDir": "C:\\Users\\Administrator\\.dsh-edge-search",
+  "debugPort": 9222,
+  "silentMode": false,
+  "searchTimeout": 30000,
+  "concurrentLock": false
+}
