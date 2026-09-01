@@ -1,0 +1,29 @@
+{
+  "name": "dsh-bg-search",
+  "description": "DSH后台搜索插件：使用独立Edge分身，静默搜索DeepSeek和豆包网页版",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.mjs",
+  "exports": {
+    ".": "./index.mjs",
+    "./client": "./client.js",
+    "./cordis.patch.yml": "./cordis.patch.yml"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web"
+    }
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "background-search",
+    "edge-automation"
+  ],
+  "author": "Ai An",
+  "license": "MIT"
+}
