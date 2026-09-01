@@ -1,0 +1,1 @@
+{"root":["../src/dsh-types.d.ts","../src/fingerprint.ts","../src/index.ts","../src/invariant.ts","../src/locator.ts","../src/platform-search.ts","../src/protocol.ts","../src/client/chooser.ts","../src/client/fingerprint.ts","../src/client/index.ts","../src/client/locator.ts","../src/client/paths.ts"],"version":"6.0.3"}
