@@ -1,0 +1,23 @@
+{
+  "name": "dsh-handoff-lite16",
+  "version": "2.6.0",
+  "type": "module",
+  "main": "index.mjs",
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "description": "DSH Desktop plugin: 轻量交接文档管理器",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aisubei/dsh-handoff-lite16.git"
+  },
+  "keywords": [
+    "dsh",
+    "plugin",
+    "handoff",
+    "交接"
+  ]
+}
