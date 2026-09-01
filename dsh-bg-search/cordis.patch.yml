@@ -1,0 +1,7 @@
+# dsh-bg-search bundle patch: 后台搜索工具
+- insert:
+    - id: dsh-bg-search
+      name: dsh-bg-search
+      inject:
+        - tools
+        - webServer
